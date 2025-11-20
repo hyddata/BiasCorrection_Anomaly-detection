@@ -56,6 +56,16 @@ RMSE (calibration + validation)
 
 Correlation performance
 
+as an example:
+
+
+<img width="638" height="600" alt="image" src="https://github.com/user-attachments/assets/ed97ca4b-c17a-4025-974f-803462190fb6" />
+
+**Results of bias correction for SSP585 using Generalized Additive Models (GAM) method**
+
+
+
+
 The best model is then used to correct future CMIP6 data (2025–2050).
 
 ✅ 5. Visualization Outputs
